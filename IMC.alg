@@ -31,7 +31,7 @@ senao
                   escreva("Obesidade Severa")
 
                Senao
-                  escreva("Obesidade Severa")
+                  escreva("Obesidade Mórbida")
 
                FimSe
 
