@@ -1,2 +1,2 @@
-# Apto_Inapto_CNH
-Calculo_para_tira_CNH
+# Visualog
+Logica_de_Programacao
