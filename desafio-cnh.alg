@@ -6,21 +6,21 @@ inicio
    escreval("----------------------------")
    escreval("--Departamento de Transito--")
    escreval("----------------------------")
-   escreva("Digite o ano atual (yyyy) ", a)
+   escreva("Digite o ano atual (yyyy) ")
    leia(a)
-   escreva("Digite seu ano de nascimento(yyyy)",n)
+   escreva("Digite seu ano de nascimento(yyyy)")
    leia(n)
    idade <- (a - n)
    escreval("Idade",idade," anos " )
    se (idade >=18)entao
       escreval("-----------Estatus---------------")
-      escreval("----------Você têm:",idade," anos","----------")
-      escreval("---Apto a tirar a habilitação--")
+      escreval("----------VocÃª tÃªm:",idade," anos","----------")
+      escreval("---Apto a tirar a habilitaÃ§Ã£o--")
    senao
    se(idade<18)entao
       escreval("-----------Estatus---------------")
-      escreval("--------Você têm:",idade," ano","----------")
-      escreval("---Inapto a tirar a habilitação--")
+      escreval("--------VocÃª tÃªm:",idade," ano","----------")
+      escreval("---Inapto a tirar a habilitaÃ§Ã£o--")
    fimSe
 fimSe
 
