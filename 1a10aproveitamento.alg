@@ -32,7 +32,7 @@ media<-(n1+n2) / 2
                      se(media =1)ou(media =2 )entao
                      escreval("--Média:",media,"----")
                      escreval("-Aluno Reprovado-")
-                     escreval("Aproveitamento D")
+                     escreval("Aproveitamento E")
                      FimSe
               FimSe
            FimSe
