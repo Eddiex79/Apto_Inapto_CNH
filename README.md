@@ -1,2 +1,2 @@
 # Visualg
-Logica_de_Programacao
+Logica_de_Programacao_GustavoGuanabara
