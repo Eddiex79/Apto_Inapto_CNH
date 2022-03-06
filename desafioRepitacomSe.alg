@@ -3,7 +3,7 @@ var
 n :inteiro
 inicio
 Repita
-   escreval("|--------------|")
+   escreval("|-----MENU-----|")
    escreval("|[1] De 1 a 10 |")
    escreval("|[2] De 10 a 0 |")
    escreval("|[3]   sair    |")
