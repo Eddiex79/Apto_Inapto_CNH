@@ -19,5 +19,5 @@ Repita
       fimse
    fimse
 Ate(n >= 3)
-escreva("Sair ")
+escreva("Saindo... ")
 fimalgoritmo
